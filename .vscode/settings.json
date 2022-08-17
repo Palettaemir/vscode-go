@@ -11,4 +11,5 @@
 	},
 	"editor.insertSpaces": false,
 	"typescript.tsdk": "node_modules\\typescript\\lib",
+	"C_Cpp.errorSquiggles": "Disabled",
 }
